@@ -19,7 +19,7 @@ Este projeto utiliza o serviço OCR (Optical Character Recognition) do Azure Cog
 
 ### 1. Clonar o Repositório
 
- ```bash
+```bash
 git clone https://github.com/fjbrit/GenAI-Text-Recognition.git
 cd GenAI-Text-Recognition
 
@@ -56,3 +56,4 @@ GitHub: fjbrit
 LinkedIn: Fábio Brito
 
 
+LinkedIn: Fábio Brito
