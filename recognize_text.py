@@ -4,7 +4,7 @@ import os
 
 # Endpoint e chave de API
 endpoint = "https://mycognitiveservices.cognitiveservices.azure.com/vision/v3.2/ocr"
-api_key = "9065ef9e61eb4c3ebeba3493c1a7ee63"
+api_key = "************************"
 
 def recognize_text(image_path):
     headers = {

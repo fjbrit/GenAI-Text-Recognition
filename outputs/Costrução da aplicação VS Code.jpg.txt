@@ -1,0 +1,55 @@
+File Edit Selection View Go Run
+n g coo:
+A
+This is the last Windows 32-bit supported version of Visual Studio Code. Consider upgrading to the M-bit build.
+p GenAI-Text-Recognition
+Learn More
+EXPLORER
+v GENA-TEXT-RECOGNITION
+> inputs
+outputs
+> venv
+(D READMEmd
+recognize_text.py
+> OUTLINE
+> TIMELINE
+@oA1
+recognize_text.py 1 X
+recognize_textpy >
+headers
+12
+24
+25
+"Ocp-Apim-Subscription-Key": api_key,
+"Content- Type" •
+" application/octet- stream"
+# Funcäo para reconhecer texto em uma imagem
+def
+recognize_text(image_path) :
+with open(image_path, "rb") as image_file:
+response = requests. post(endpoint, headers-headers,
+response. )
+return response.json()
+# Diret6rios de entrada e saida
+input_dir
+'inputs"
+output_dir -
+"outputs"
+os exist_ok=True)
+# Processar cada imagem na pasta de entrada
+for image_file in os. listdir(input_dir):
+if image_file.endswith((" .png"
+jpg", ".jpeg")):
+image_path = os. path. join(input_dir, image_file)
+result = recognize_text(image_path)
+data=image_file)
+output_path = os.path.join(output_dir, f"{os.path.splitext(image_file)[e]}.txt")
+with open(output_path, "w") as output_file:
+output_fi le. result ) )
+print( "Processamento concluido. ")
+Ln6, col 44
+Spaces: 4
+UTF-8
+CRLF
+Python
+3.12.4 ('venv± venv)
