@@ -19,14 +19,13 @@ Este projeto utiliza o serviço OCR (Optical Character Recognition) do Azure Cog
 
 ### 1. Clonar o Repositório
 
- ```bash
+bash
 git clone https://github.com/fjbrit/GenAI-Text-Recognition.git
 cd GenAI-Text-Recognition
 
 2. Configurar o Ambiente Virtual
 
 bash
-
 python -m venv venv
 source venv/Scripts/activate  # No Windows
 # ou
