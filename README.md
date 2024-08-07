@@ -54,6 +54,6 @@ Possibilidades e Insights
 
 Durante o desenvolvimento deste projeto, aprendi sobre as capacidades e limitações do serviço OCR da Azure. A integração foi direta e a precisão do reconhecimento de texto foi satisfatória para diversas aplicações.
 
-##Contato
-##GitHub: fjbrit
-##LinkedIn: Fábio Brito
+Contato
+GitHub: fjbrit
+LinkedIn: Fábio Brito
