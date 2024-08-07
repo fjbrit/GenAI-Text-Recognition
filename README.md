@@ -26,7 +26,6 @@ cd GenAI-Text-Recognition
 2. Configurar o Ambiente Virtual
 
 bash
-
 python -m venv venv
 source venv/Scripts/activate  # No Windows
 # ou
@@ -34,13 +33,11 @@ source venv/bin/activate  # No macOS/Linux
 3. Instalar Dependências
 
 bash
-
 pip install -r requirements.txt
 4. Configurar as Chaves de API
 Adicione a chave da API e o endpoint corretos no arquivo recognize_text.py:
 
 python
-
 endpoint = "https://<seu-serviço>.cognitiveservices.azure.com/vision/v3.1/ocr"
 api_key = "YOUR_AZURE_API_KEY"
 5. Executar o Script
@@ -52,11 +49,10 @@ python recognize_text.py
 Os resultados do reconhecimento de texto serão salvos na pasta outputs em arquivos .txt correspondentes às imagens processadas.
 
 Possibilidades e Insights
-
 Durante o desenvolvimento deste projeto, aprendi sobre as capacidades e limitações do serviço OCR da Azure. A integração foi direta e a precisão do reconhecimento de texto foi satisfatória para diversas aplicações.
 
-##Contato
-#GitHub: fjbrit
-#LinkedIn: Fábio Brito
+Contato
+GitHub: fjbrit
+LinkedIn: Fábio Brito
 
 
