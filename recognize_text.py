@@ -2,8 +2,8 @@ import requests
 import os
 
 # Configuração da API
-endpoint = "https://mycognitiveservices.cognitiveservices.azure.com/vision/v3.2/ocr"
-api_key = "9065ef9e61eb4c3ebeba3493c1a7ee63"
+endpoint = "**************.cognitiveservices.azure.com/vision/v3.2/ocr"
+api_key = "9065ef9e61eb4c3ebeba3493*******"
 headers = {
     "Ocp-Apim-Subscription-Key": api_key,
     "Content-Type": "application/octet-stream"
