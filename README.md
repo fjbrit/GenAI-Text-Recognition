@@ -60,9 +60,10 @@ api_key = "YOUR_AZURE_API_KEY"
 Certifique-se de ter as imagens na pasta inputs e execute:
 python recognize_text.py
 
-**6. Resultados**
+6. Resultados
 Os resultados do reconhecimento de texto serão salvos na pasta outputs em arquivos .txt correspondentes às imagens processadas.
 
 Possibilidades e Insights
-Durante o desenvolvimento deste projeto, aprendi sobre as capacidades e limitações do serviço OCR da Azure. A integração foi direta e a precisão do reconhecimento de texto foi satisfatória para diversas aplicações.
+Durante o desenvolvimento deste projeto, aprendi sobre as capacidades e limitações do serviço OCR da Azure.
+A integração foi direta e a precisão do reconhecimento de texto foi satisfatória para diversas aplicações.
 
