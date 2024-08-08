@@ -17,10 +17,6 @@
 Este projeto utiliza o serviço OCR (Optical Character Recognition) do Azure Cognitive Services para reconhecer e extrair texto de imagens. Foi desenvolvido como parte de um projeto educacional para a [DIO](https://www.dio.me/), demonstrando uma abordagem prática de reconhecimento de texto em imagens.
 
 ---
-## Desafio de Projeto da DIO
-Agora que você já sabe as formas de contribuir em um projeto Open Source, está na hora de colocar em prática o seu conhecimento sobre contribuição no GitHub! <br>
-Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um projeto Open Source que você contribuiu** para a entrega do desafio na plataforma [DIO](https://www.dio.me/).
-
 
 ## Ferramentas Utilizadas
 
